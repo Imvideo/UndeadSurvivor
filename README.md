@@ -13,3 +13,5 @@ https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x
 
 #레벨업화면
 ![레벨업](https://github.com/user-attachments/assets/78806426-bdbf-4b21-8528-0fc58df29324)
+
+파일 용량이 커서 올리는데 오류가 생겨 파일 업로드는 시간이 좀 걸릴 것 같습니다
